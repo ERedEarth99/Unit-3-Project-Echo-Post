@@ -1,0 +1,8 @@
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.AssemblyInfoInputs.cache
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.AssemblyInfo.cs
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.csproj.CoreCompileInputs.cache
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.RazorAssemblyInfo.cache
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.RazorAssemblyInfo.cs
+C:\Users\sam.harris\OneDrive - Southeast Technical College\SEMESTER 2\intro MS wed develop\echopost\EchoPost\obj\Debug\net6.0\EchoPost.sourcelink.json

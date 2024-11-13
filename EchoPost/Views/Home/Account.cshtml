@@ -1,0 +1,28 @@
+﻿
+    @page
+@model AccountModel
+@{
+    ViewData["Title"] = "My Account - EchoPost";
+}
+
+<h2>Welcome to your account, @Model.Username!</h2>
+
+<p><a asp-page="MainFeed">Main Feed</a></p>
+<form>
+    <input type="text" placeholder="Search EchoPost..." />
+    <button type="submit">Search</button>
+</form>
+
+<h3>Your Posts</h3>
+<ul>
+    <!-- Display user's posts here -->
+    <li><a href="#">Edit Post</a> | <a href="#">Delete Post</a></li>
+</ul>
+
+<h3>Comments</h3>
+<ul>
+    <!-- Display comments here -->
+    <li>Sample comment content</li>
+</ul>
+
+}

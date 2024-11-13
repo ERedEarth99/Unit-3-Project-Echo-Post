@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ezra.redearth\\source\\repos\\Unit-3-Project-Echo-Post\\EchoPost\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\views\\home\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:views\\home\\account.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|c:\\users\\sam.harris\\onedrive - southeast technical college\\semester 2\\intro ms wed develop\\echopost\\echopost\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4ABAE7F-1C90-4728-8155-613B1B47664E}|EchoPost.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Models\\AccountModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:24:52.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Models\\RegisterModel.cs*",
+              "RelativeToolTip": "Models\\RegisterModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:24:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Models\\LoginModel.cs*",
+              "RelativeToolTip": "Models\\LoginModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:23:55.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:21:59.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cshtml",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Views\\Home\\Account.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Account.cshtml",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Views\\Home\\Account.cshtml",
+              "RelativeToolTip": "Views\\Home\\Account.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:21:49.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T19:20:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sam.harris\\OneDrive - Southeast Technical College\\SEMESTER 2\\intro MS wed develop\\echopost\\EchoPost\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:02:54.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
